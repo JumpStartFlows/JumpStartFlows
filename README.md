@@ -61,6 +61,8 @@ Building toward **100 paying SMB clients** and **$1M cumulative revenue** within
 
 **⭐ Star this profile if you believe in the power of automation!**
 
+[**Check out my Portfolio**](https://jumpstartflows.github.io/Portfolio/)
+
 <!--
 **Fun fact**: Every automation I build includes a dashboard so you can track exactly how much time and money you're saving!
 -->

@@ -16,6 +16,7 @@ I help small-to-mid-size businesses **escape the manual work trap** by building 
 ![Make](https://img.shields.io/badge/Make-6366F1?style=flat-square&logo=integromat&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6D6D?style=flat-square&logo=n8n&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![API](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white)

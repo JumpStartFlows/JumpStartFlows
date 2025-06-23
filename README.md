@@ -1,5 +1,3 @@
-![www.GitHub.com/jumpstartflows/jumpstartflows/image/JSF_Header.png](https://github.com/JumpStartFlows/JumpStartFlows/blob/main/image/JSF_%20Header.png?raw=true)
-
 ![https://github.com/JumpStartFlows/JumpStartFlows/blob/main/image/JSF_Header.png] (https://github.com/JumpStartFlows/JumpStartFlows/blob/main/image/JSF_Header.png)
 ===
 # Hi there! 👋 I'm Allen @JumpStartFlows

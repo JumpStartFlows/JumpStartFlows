@@ -1,4 +1,4 @@
-![![JSF Hero](./image/JSF_header.png)
+![![JSF Hero](./image/JSF_Header.png)
 ===
 
 # Hi there! 👋 I'm Allen @JumpStartFlows
